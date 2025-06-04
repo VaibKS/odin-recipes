@@ -6,6 +6,6 @@ In this project I am going to implement basic html tags such as paragraph, ancho
 It will sound funny but I do not suggest you to follow the recipes for ingridients and steps for preparation given here. The project is made by me just as a fun exercise.
 
 Image Refernces:
-Shahi paneer - Photo by Alberta Studios from Pexels: https://www.pexels.com/photo/orange-soup-in-black-ceramic-bowl-10345736/
-Sandwhich - Photo by Suzy Hazelwood: https://www.pexels.com/photo/wheat-bread-sandwich-1209029/
-Salad - Photo by Jill Wellington: https://www.pexels.com/photo/close-up-of-salad-in-plate-257816/
+1. Shahi paneer - Photo by Alberta Studios from Pexels: https://www.pexels.com/photo/orange-soup-in-black-ceramic-bowl-10345736/
+2. Sandwhich - Photo by Suzy Hazelwood: https://www.pexels.com/photo/wheat-bread-sandwich-1209029/
+3. Salad - Photo by Jill Wellington: https://www.pexels.com/photo/close-up-of-salad-in-plate-257816/
