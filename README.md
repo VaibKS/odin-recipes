@@ -8,3 +8,4 @@ It will sound funny but I do not suggest you to follow the recipes for ingridien
 Image Refernces:
 Shahi paneer - Photo by Alberta Studios from Pexels: https://www.pexels.com/photo/orange-soup-in-black-ceramic-bowl-10345736/
 Sandwhich - Photo by Suzy Hazelwood: https://www.pexels.com/photo/wheat-bread-sandwich-1209029/
+Salad - Photo by Jill Wellington: https://www.pexels.com/photo/close-up-of-salad-in-plate-257816/
